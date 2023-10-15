@@ -5,6 +5,16 @@
                       for the backend and strengthening every day my knowledge about it.</h3>
 </div>
 
+- 🔭 I’m currently working on **C#, SQL, MongoDB**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cloud computing.
+
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **Santiago54911@gmail.com**
+
 
 <p align="center">
   <!--- stats (start) -->
