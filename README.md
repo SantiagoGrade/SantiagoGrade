@@ -5,6 +5,12 @@
                       for the backend and strengthening every day my knowledge about it.</h3>
 </div>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
 - 🔭 I’m currently working on **C#, SQL, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
