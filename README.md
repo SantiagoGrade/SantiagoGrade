@@ -17,7 +17,7 @@
 
 - ☁️ I've keen interest in cloud computing.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **C#, Java**
 
 - 📫 Feel free to reach me out **Santiago54911@gmail.com**
 
