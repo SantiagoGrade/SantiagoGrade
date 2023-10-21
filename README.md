@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing.
+- ☁️ I've keen interest MVC.
 
 - 💬 Ask me about **C#, Java**
 
